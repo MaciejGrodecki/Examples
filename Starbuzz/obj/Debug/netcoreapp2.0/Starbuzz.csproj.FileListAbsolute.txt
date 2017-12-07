@@ -1,0 +1,10 @@
+D:\Projekty\Starbuzz\bin\Debug\netcoreapp2.0\Starbuzz.deps.json
+D:\Projekty\Starbuzz\bin\Debug\netcoreapp2.0\Starbuzz.runtimeconfig.json
+D:\Projekty\Starbuzz\bin\Debug\netcoreapp2.0\Starbuzz.runtimeconfig.dev.json
+D:\Projekty\Starbuzz\bin\Debug\netcoreapp2.0\Starbuzz.dll
+D:\Projekty\Starbuzz\bin\Debug\netcoreapp2.0\Starbuzz.pdb
+D:\Projekty\Starbuzz\obj\Debug\netcoreapp2.0\Starbuzz.csproj.CoreCompileInputs.cache
+D:\Projekty\Starbuzz\obj\Debug\netcoreapp2.0\Starbuzz.AssemblyInfoInputs.cache
+D:\Projekty\Starbuzz\obj\Debug\netcoreapp2.0\Starbuzz.AssemblyInfo.cs
+D:\Projekty\Starbuzz\obj\Debug\netcoreapp2.0\Starbuzz.dll
+D:\Projekty\Starbuzz\obj\Debug\netcoreapp2.0\Starbuzz.pdb
